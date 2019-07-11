@@ -1,0 +1,1205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05fe7801-1e21-41d6-b036-296f38fe6c7e" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/model/JsonRPCMessageParserTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="29">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/server/JettyServerRunTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="57" column="83" selection-start-line="57" selection-start-column="61" selection-end-line="57" selection-end-column="83" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/RESTServiceApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/model/JsonRPCResponse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="16" column="35" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/model/Message.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="57" column="37" selection-start-line="57" selection-start-column="37" selection-end-line="57" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/controller/JsonRPCMessageController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-11">
+              <caret line="22" column="66" selection-start-line="22" selection-start-column="66" selection-end-line="22" selection-end-column="66" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/model/JsonRPCResponseTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/model/AggregatedResultBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/model/JsonRPCMessageParser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="15" column="14" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/model/AggregatedResultBuilderTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/service/JettyService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/server/JettyService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/controller/JsonRpcRestServiceServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/model/JsonRpcMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/controller/MessageController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/controller/JsonRPCFormatedMessageController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/model/JsonRpcMessageManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/model/JsonRpcMessageParcer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/model/JsonRpcMessageParser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/RestServiceApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/clients/packagesenderclient/JsonRpcPackageSenderClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/model/AgregatedResponseBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/model/AggregatedResponseBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/model/JsonRPCMessage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/server/JsonRPCResponseControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/server/JsonRPCRunServerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/RESTServiceApplicationTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/model/MessageManagerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/model/JsonRPCMessageParser.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/controller/JsonRPCMessageControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/client/PackageParamsBuilder.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/client/paramsForJsonRpcPackageFormatRequest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/client/JsonRpcPackageSenderClient.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/client/a.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/model/AggregatedResultBuilderTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/model/JsonRPCMessageParserTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/model/JsonRPCResponseTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/model/MessageTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/model/ModelTestsHelper.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/client/JsonRPCPackageSenderClient.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/client/JsonRpcMessageInPackageFormatSenderTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/client/ParamsForJsonRpcRequestInPackageFormat.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/client/ParamsForJsonRpcPackageFormatRequest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/client/ParamsForJsonRPCRequestInPackageFormat.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/client/JsonRPCRequestInPackageFormatSenderTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/client/SenderTestJsonRPCRequestInPackageFormat.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/client/JsonRPCRequestInPackageFormatSenderClient.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/client/SenderTestForJsonRPCRequestInPackageFormat.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/client/SenderClientForJsonRPCRequestInPackageFormat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/clients/singlemessageclients/JsonRpcNoteReqSenderClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/clients/packagesenderclient/PackageParamsBuilder.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/model/JsonRPCResponse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/RESTServiceApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/model/AggregatedResultBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/controller/JsonRPCMessageController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/server/JettyServer.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/server/JettyServerRunTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/temp/DbBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/RESTservice/ocrv/temp/DbBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/model/Message.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="json_rpc_rest_application" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="json_rpc_rest_application" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-301" />
+    <option name="y" value="76" />
+    <option name="width" value="1066" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <autoscrollToSource ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="RESTServiceApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RESTServiceApplication" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RESTServiceApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RESTServiceApplication" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RESTServiceApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RESTServiceApplication" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RESTServiceApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RESTServiceApplication" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RESTServiceApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RESTServiceApplication" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="restserviceapplication" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RESTServiceApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RESTServiceApplication" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="restserviceapplication" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RESTServiceApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RESTServiceApplication" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="restserviceapplication" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RESTServiceApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RESTServiceApplication" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="restserviceapplication" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RESTServiceApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RESTServiceApplication" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RESTServiceApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RESTServiceApplication" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RESTServiceApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RESTServiceApplication" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="restserviceapplication" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RESTServiceApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RESTServiceApplication" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="restserviceapplication" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="RESTServiceApplication" type="b2602c69:ProjectViewProjectNode" />
+              <item name="RESTServiceApplication" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="restserviceapplication" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.39411765" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.ocrv.restserviceapplication.model" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.ocrv.restserviceapplication.model" />
+      <recent name="com.ocrv.restserviceapplication.controller" />
+      <recent name="com.ocrv.restserviceapplication" />
+      <recent name="com.ocrv.restserviceapplication.service" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.ocrv.restserviceapplication.server" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ocrv.restserviceapplication.model" />
+      <recent name="com.ocrv.restserviceapplication.client" />
+      <recent name="com.ocrv.restserviceapplication.packagesenderclient" />
+      <recent name="com.ocrv.RESTServiceApplication" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java\RESTServiceApplication\RESTServiceApplication\src\main\java\com\ocrv\restserviceapplication" />
+      <recent name="E:\Java\RESTServiceApplication\RESTServiceApplication\src\test\java\com\ocrv\restserviceapplication\client" />
+      <recent name="D:\Java\java_projects\sources\JsonRpcRESTApplication\web\WEB-INF\lib" />
+      <recent name="D:\Java\java_projects\sources\JsonRpcRESTApplication\web\lib" />
+      <recent name="D:\Java\java_projects\sources\JsonRpcRESTApplication\src\main\java\com\ocrv\restserviceapplication\client" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Java\java_projects\sources\JsonRpcRESTApplication\web\WEB-INF" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.RESTServiceApplication">
+    <configuration default="true" type="JettyConfiguration" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="configFiles">
+            <list>
+              <JettyConfigFile>
+                <option name="active" value="true" />
+                <option name="path" value="modules\jmx.mod" />
+              </JettyConfigFile>
+            </list>
+          </option>
+          <option name="myConfigFiles">
+            <list>
+              <JettyConfigFile>
+                <option name="active" value="true" />
+                <option name="path" value="modules\jmx.mod" />
+              </JettyConfigFile>
+            </list>
+          </option>
+        </data>
+      </server-settings>
+      <predefined_log_file enabled="true" id="Jetty" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DbBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.RESTservice.ocrv.temp.DbBuilder" />
+      <module name="json_rpc_rest_application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.RESTservice.ocrv.temp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JsonRpcPackageSenderClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ocrv.restserviceapplication.clients.packagesenderclient.JsonRpcPackageSenderClient" />
+      <module name="json_rpc_rest_application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ocrv.restserviceapplication.clients.packagesenderclient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RESTServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ocrv.restserviceapplication.RESTServiceApplication" />
+      <module name="json_rpc_rest_application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ocrv.restserviceapplication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SenderClientForJsonRPCRequestInPackageFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ocrv.restserviceapplication.client.SenderClientForJsonRPCRequestInPackageFormat" />
+      <module name="json_rpc_rest_application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ocrv.restserviceapplication.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JettyServerRunTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="json_rpc_rest_application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ocrv.restserviceapplication.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ocrv.restserviceapplication.server" />
+      <option name="MAIN_CLASS_NAME" value="com.ocrv.restserviceapplication.server.JettyServerRunTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <option name="AUTO_RESTART" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.SenderClientForJsonRPCRequestInPackageFormat" />
+      <item itemvalue="Application.RESTServiceApplication" />
+      <item itemvalue="Application.JsonRpcPackageSenderClient" />
+      <item itemvalue="Application.DbBuilder" />
+      <item itemvalue="JUnit.JettyServerRunTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RESTServiceApplication" />
+        <item itemvalue="Application.DbBuilder" />
+        <item itemvalue="JUnit.JettyServerRunTest" />
+        <item itemvalue="Application.SenderClientForJsonRPCRequestInPackageFormat" />
+        <item itemvalue="Application.JsonRpcPackageSenderClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05fe7801-1e21-41d6-b036-296f38fe6c7e" name="Default Changelist" comment="" />
+      <created>1557759821876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557759821876</updated>
+      <workItem from="1557914144715" duration="3083000" />
+      <workItem from="1557917892367" duration="2917000" />
+      <workItem from="1557922275505" duration="8702000" />
+      <workItem from="1557934038485" duration="2361000" />
+      <workItem from="1557939012882" duration="1213000" />
+      <workItem from="1557993471332" duration="1456000" />
+      <workItem from="1557994957952" duration="477000" />
+      <workItem from="1557995438544" duration="1270000" />
+      <workItem from="1557997882894" duration="15283000" />
+      <workItem from="1558017981647" duration="12424000" />
+      <workItem from="1558077763858" duration="2112000" />
+      <workItem from="1558088245206" duration="241000" />
+      <workItem from="1558095291696" duration="584000" />
+      <workItem from="1558944059366" duration="4953000" />
+      <workItem from="1558971248102" duration="2329000" />
+      <workItem from="1560253792611" duration="711000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SenderTestForJsonRPCRequestInPackageFormat - 2019.06.26 at 12h 12m 49s.xml">
+      <configuration name="SenderTestForJsonRPCRequestInPackageFormat" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SenderTestForJsonRPCRequestInPackageFormat - 2019.06.26 at 12h 18m 14s.xml">
+      <configuration name="SenderTestForJsonRPCRequestInPackageFormat" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SenderTestForJsonRPCRequestInPackageFormat - 2019.06.26 at 12h 29m 18s.xml">
+      <configuration name="SenderTestForJsonRPCRequestInPackageFormat" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JettyServerRunTest - 2019.06.26 at 13h 25m 15s.xml">
+      <configuration name="JettyServerRunTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JettyServerRunTest - 2019.06.26 at 13h 25m 51s.xml">
+      <configuration name="JettyServerRunTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JettyServerRunTest - 2019.06.26 at 13h 26m 36s.xml">
+      <configuration name="JettyServerRunTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JettyServerRunTest - 2019.06.26 at 13h 28m 55s.xml">
+      <configuration name="JettyServerRunTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JettyServerRunTest - 2019.06.26 at 13h 34m 57s.xml">
+      <configuration name="JettyServerRunTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JettyServerRunTest - 2019.06.26 at 13h 35m 59s.xml">
+      <configuration name="JettyServerRunTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JettyServerRunTest - 2019.06.26 at 13h 36m 25s.xml">
+      <configuration name="JettyServerRunTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="60116000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1651671" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Learn" order="5" weight="0.3294621" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32839838" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32839838" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49938875" weight="0.39838493" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="CheckStyle" order="7" />
+      <window_info anchor="bottom" id="Analysis" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32997763" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50061125" side_tool="true" weight="0.39839265" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32839838" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.23200513" />
+      <window_info anchor="right" id="PlantUML" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Key Promoter X" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Coverage" order="11" side_tool="true" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16131106" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Learn" order="5" weight="0.3294621" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32839838" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32839838" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49938875" visible="true" weight="0.39838493" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="CheckStyle" order="7" />
+      <window_info anchor="bottom" id="Analysis" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32997763" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50061125" side_tool="true" weight="0.39839265" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32839838" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.23200513" />
+      <window_info anchor="right" id="PlantUML" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Key Promoter X" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="Coverage" order="11" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/client/SenderTestForJsonRPCRequestInPackageFormat.java</url>
+          <line>19</line>
+          <properties field="operationTimeInSeconds" class="com.ocrv.restserviceapplication.client.SenderTestForJsonRPCRequestInPackageFormat" />
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/client/SenderClientForJsonRPCRequestInPackageFormat.java</url>
+          <line>22</line>
+          <properties field="mySession" class="com.ocrv.restserviceapplication.client.SenderClientForJsonRPCRequestInPackageFormat" />
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/client/SenderClientForJsonRPCRequestInPackageFormat.java</url>
+          <line>23</line>
+          <properties field="request" class="com.ocrv.restserviceapplication.client.SenderClientForJsonRPCRequestInPackageFormat" />
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/client/SenderClientForJsonRPCRequestInPackageFormat.java</url>
+          <line>24</line>
+          <properties field="response" class="com.ocrv.restserviceapplication.client.SenderClientForJsonRPCRequestInPackageFormat" />
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/controller/JsonRPCMessageControllerTest.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/controller/JsonRPCMessageControllerTest.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/controller/JsonRPCMessageControllerTest.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/controller/JsonRPCMessageControllerTest.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/controller/JsonRPCMessageControllerTest.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/controller/JsonRPCMessageControllerTest.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/controller/JsonRPCMessageControllerTest.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/controller/JsonRPCMessageControllerTest.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/controller/JsonRPCMessageControllerTest.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/controller/JsonRPCMessageControllerTest.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/client/SenderTestForJsonRPCRequestInPackageFormat.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/client/SenderTestForJsonRPCRequestInPackageFormat.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/client/SenderTestForJsonRPCRequestInPackageFormat.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/client/SenderTestForJsonRPCRequestInPackageFormat.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="168" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/client/SenderTestForJsonRPCRequestInPackageFormat.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/client/SenderTestForJsonRPCRequestInPackageFormat.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/client/SenderClientForJsonRPCRequestInPackageFormat.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/client/SenderClientForJsonRPCRequestInPackageFormat.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/client/SenderClientForJsonRPCRequestInPackageFormat.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="198" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/client/SenderClientForJsonRPCRequestInPackageFormat.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/client/SenderClientForJsonRPCRequestInPackageFormat.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/client/SenderClientForJsonRPCRequestInPackageFormat.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/client/SenderClientForJsonRPCRequestInPackageFormat.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="202" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/client/SenderClientForJsonRPCRequestInPackageFormat.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/client/SenderClientForJsonRPCRequestInPackageFormat.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/client/SenderClientForJsonRPCRequestInPackageFormat.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="205" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/client/SenderClientForJsonRPCRequestInPackageFormat.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/client/SenderClientForJsonRPCRequestInPackageFormat.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/client/SenderClientForJsonRPCRequestInPackageFormat.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="208" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/client/SenderClientForJsonRPCRequestInPackageFormat.java</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/client/SenderClientForJsonRPCRequestInPackageFormat.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JsonRpcRESTServiceApplication$com_ocrv_restserviceapplication_in_json_rpc_rest_application.ic" NAME="com.ocrv.restserviceapplication in json_rpc_rest_application Coverage Results" MODIFIED="1561134740838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.ocrv.restserviceapplication.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JsonRpcRESTServiceApplication$MessageManagerTest.ic" NAME="MessageManagerTest Coverage Results" MODIFIED="1561135406574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.ocrv.restserviceapplication.model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JsonRpcRESTServiceApplication$All_in_json_rpc_rest_application.ic" NAME="All in json_rpc_rest_application Coverage Results" MODIFIED="1561134951217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/JsonRpcRESTServiceApplication$JsonRPCMessageControllerTest.ic" NAME="JsonRPCMessageControllerTest Coverage Results" MODIFIED="1561135093400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.ocrv.restserviceapplication.controller.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ocrv/RESTServiceApplication.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/model/Object.java" />
+    <entry file="file://$PROJECT_DIR$/web/index.jsp" />
+    <entry file="file://$USER_HOME$/.m2/settings.xml" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml" />
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/4.0.0/javax.servlet-api-4.0.0.jar!/javax/servlet/http/HttpServlet.class" />
+    <entry file="file://$PROJECT_DIR$/JsonRpcRESTApplication.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json_rpc_rest_application.iml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/model/EventJsonRpcMessageManager.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/model/TestSAXHandler.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar!/javax/servlet/http/HttpServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="43" column="153" selection-start-line="43" selection-start-column="153" selection-end-line="43" selection-end-column="153" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/RESTServiceApplicationTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/controller/JsonRPCMessageControllerTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/client/a.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="834" selection-start-line="834" selection-end-line="834" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/clients/singlemessageclients/JsonRpcReqSenderClient.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/clients/singlemessageclients/ParamsMapBuilder.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/clients/singlemessageclients/JsonRpcNoteReqSenderClient.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/clients/packagesenderclient/PackageParamsBuilder.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/clients/packagesenderclient/JsonRpcPackageSenderClient.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/client/SenderTestForJsonRPCRequestInPackageFormat.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/client/ParamsForJsonRPCRequestInPackageFormat.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="98" column="21" selection-start-line="98" selection-start-column="21" selection-end-line="98" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/client/SenderClientForJsonRPCRequestInPackageFormat.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/model/MessageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/model/ModelTestsHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/server/JettyServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="29" column="26" lean-forward="true" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/server/JettyServerRunTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="57" column="83" selection-start-line="57" selection-start-column="61" selection-end-line="57" selection-end-column="83" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/RESTservice/ocrv/temp/DbBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="74" column="33" lean-forward="true" selection-start-line="74" selection-start-column="33" selection-end-line="74" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/RESTServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/model/AggregatedResultBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/controller/JsonRPCMessageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11">
+          <caret line="22" column="66" selection-start-line="22" selection-start-column="66" selection-end-line="22" selection-end-column="66" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/model/JsonRPCMessageParser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/model/JsonRPCResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ocrv/restserviceapplication/model/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="57" column="37" selection-start-line="57" selection-start-column="37" selection-end-line="57" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/model/AggregatedResultBuilderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/model/JsonRPCMessageParserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/ocrv/restserviceapplication/model/JsonRPCResponseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>json_rpc_rest_application:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39411765" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39411765" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39411765" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39411765" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>json_rpc_rest_application</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39411765" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.fasterxml.jackson.core:jackson-core:2.9.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.39411765" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <last-edited>Unnamed</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
